@@ -5,6 +5,9 @@
 - **Random Seed:** `161` (70% Train, 30% Test split)
 - **Primary Deliverables:** `report.pdf`, `report.docx`, `notebook.ipynb`
 
+- **Name:** `Vansh Jain`
+- **Enrollment:**`S24CSEU0161`
+
 ---
 
 ## 1. Project Directory Structure
